@@ -19,9 +19,9 @@
 ---
 
 ### 📂 En Son Projelerim
-* 🐍 **İlk Python Projem**(https://github.com/osmanmemisdev/ilk-python)
-* 🧮 **Hesap Makinesi**(https://github.com/osmanmemisdev/hesap-makinesi)
-* ✂️ **Taş-Kağıt-Makas Oyunu**(https://github.com/osmanmemisdev/tas-kagit-makas)
+* 🐍 [**İlk Python Projem**](https://github.com/osmanmemisdev/ilk-python)
+* 🧮 [**Hesap Makinesi**](https://github.com/osmanmemisdev/hesap-makinesi)
+* ✂️ [**Taş-Kağıt-Makas Oyunu**](https://github.com/osmanmemisdev/tas-kagit-makas)
 
 ---
 
