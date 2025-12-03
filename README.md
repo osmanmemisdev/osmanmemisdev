@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 Şu Anda Öğrendiklerim
-* **Diller & Araçlar:** Python (Değişkenler, döngüler, koşullar), Git & GitHub, VS Code
+* **Diller & Araçlar:** Python (Değişkenler, döngüler, koşullar), Git & GitHub, VS Code, C
 * **Hedefim:** Algoritmik düşünme becerimi geliştirmek.
 
 ---
