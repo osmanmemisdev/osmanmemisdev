@@ -1,28 +1,34 @@
 # 👋 Merhaba, ben Osman Memiş
 
-💻 Yazılım öğrenme yolculuğumdayım! Şu anda özellikle **Python** üzerinde çalışıyor ve projelerimi GitHub'da paylaşıyorum.  
+🎓 **Pamukkale Üniversitesi - Bilgisayar Mühendisliği 1. Sınıf Öğrencisi**
+
+💻 Yazılım öğrenme yolculuğumdayım! Şu anda özellikle **Python** üzerinde çalışıyor ve projelerimi GitHub'da paylaşıyorum.
 🚀 Amacım her gün yeni bir şey öğrenmek, küçük projelerle kendimi geliştirmek ve yazılım dünyasında sağlam bir temel oluşturmak.
 
 ---
 
-### 🧠 Şu anda öğrendiklerim
-- Python temelleri (değişkenler, döngüler, koşullar)
-- Git & GitHub kullanımı
-- Kod düzenleme (VS Code)
+### 🧠 Şu Anda Öğrendiklerim
+* **Diller & Araçlar:** Python (Değişkenler, döngüler, koşullar), Git & GitHub, VS Code
+* **Hedefim:** Algoritmik düşünme becerimi geliştirmek.
 
 ---
 
-### 🔗 Beni buradan da bulabilirsiniz
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osman-memiş-743232385/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Osman539)
+### 🏆 Sertifikalarım
+* 📜 **Versiyon Kontrolleri: Git ve GitHub** | *BTK Akademi* (Aralık 2025)
 
 ---
 
 ### 📂 En Son Projelerim
-- 🐍 [İlk Python Projem](https://github.com/Osman539/ilk-python)
-- 🐍 [hesap makinesi](https://github.com/Osman539/hesap-makinesi)
-- 🐍 [taş kağı makas oyunu](https://github.com/Osman539/tas-kagit-makas)
+* 🐍 **İlk Python Projem**
+* 🧮 **Hesap Makinesi**
+* ✂️ **Taş-Kağıt-Makas Oyunu**
+
 ---
 
-✨ *“Bugün bir satır kod, yarın bir adım ilerleme.”*  
+### 🔗 Beni Buradan da Bulabilirsiniz
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osman-memiş-743232385/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/osmanmemisdev)
 
+---
+
+✨ _“Bugün bir satır kod, yarın bir adım ilerleme.”_
